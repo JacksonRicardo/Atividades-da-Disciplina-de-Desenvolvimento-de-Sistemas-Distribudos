@@ -1,2 +1,2 @@
-# Atividades de Desenvolvimento de-Sistemas Distribuídos
+# Atividades de Desenvolvimento de Sistemas Distribuídos
 
