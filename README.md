@@ -1,4 +1,4 @@
-# Atividades de Desenvolvimento de Sistemas Distribuídos
+# Atividades Desenvolvimento de Sistemas Distribuídos
 
 ### Desenvolvimento de Projetos Acadêmicos, os projestos são: TCP/UDP, RPC e SOAP.
 
